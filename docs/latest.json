@@ -1,6 +1,6 @@
 {
-  "build": 31,
-  "version": "1.5.5",
+  "build": 30,
+  "version": "1.5",
   "url": "https://github.com/ildivinoglade-ops/velora-updates/releases/latest",
   "notes": "Velora QR Discord update.",
   "mandatory": false
