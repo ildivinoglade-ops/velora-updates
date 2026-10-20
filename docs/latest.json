@@ -1,7 +1,8 @@
 {
-  "build": 26,
-  "version": "1.1.3",
+  "build": 15,
+  "version": "1.5",
   "url": "https://github.com/ildivinoglade-ops/velora-updates/releases/latest",
-  "notes": "Nuova versione Velora disponibile.",
+  "notes": "New Version Available.",
   "mandatory": false
 }
+
