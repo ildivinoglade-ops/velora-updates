@@ -1,7 +1,7 @@
 {
-  "build": 33,
-  "version": "1.6",
+  "build": 34,
+  "version": "1.7",
   "url": "https://github.com/ildivinoglade-ops/velora-updates/releases/latest",
-  "notes": "Velora 1.6 - Discord QR and signed updates.",
+  "notes": "Velora 1.7 - Discord QR and signed updates.",
   "mandatory": false
 }
